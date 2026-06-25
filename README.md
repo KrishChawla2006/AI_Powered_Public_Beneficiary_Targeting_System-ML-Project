@@ -1,7 +1,6 @@
 ## AI_Powered_Public_Beneficiary_Targeting_System-ML-Project
 
-# Solving Real World Problem for choosing households those are eligible to government schemes 
-simultaneously with the help of Multilabel Classification.
+# Solving Real World Problem for choosing households those are eligible to government schemes simultaneously with the help of Multilabel Classification.
 
 (Models used in comparision:XGBoost,Light GBM, Random Forst, Decision Tree, Logistic Regression, K Nearest Neighbor)
 
